@@ -3,7 +3,7 @@
     margin: 0%;
 }
 .wrapper{
-    background: url(banner.jpg) no-repeat;
+    background: url(pic.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
 }
@@ -87,4 +87,17 @@
 }
 .buttons button:hover{
     background: #cc0000;
+}
+
+.download_btn{
+    height: 100px;
+    width: 2000px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffb3b3;
+    background: red;
+    border: 15px solid #cc0000;
+    outline: none;
+    cursor: pointer;
+    border-radius: 25px;
 }
